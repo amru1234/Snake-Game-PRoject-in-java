@@ -1,3 +1,4 @@
+//Snake Game Project using Java and Processing Library
 ArrayList<Integer>x_pos=new ArrayList<Integer>();
 ArrayList<Integer>y_pos=new ArrayList<Integer>();
 int hgt=24,wdt=24;
